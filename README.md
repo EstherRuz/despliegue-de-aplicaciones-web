@@ -8,10 +8,15 @@ password: dbgh
 
 
 #### 4.¿A qué puerto se reciben normalmente las peticiones del protocolo HTTP? ¿A qué capa del modelo TCP/IP se encuentra el protocolo HTTP? ¿Y los protocolos TCP, UDP, e IP?
+http: 80
+https: 443
+http capa 7 aplicación.
+TCP i UDP A la capa 4 que es la capa de transporte
+Ip capa 3 network.
 
 #### 5.¿Cuál es el significado de la siguiente respuesta de un servidor?
 ##### HTTP/1.1 302 Found
-Solicitud incorrecta enviada por el servidor
+El código de estado de respuesta HTTP 302 encontrado es una forma común de realizar la redirección de URL
 ##### Location: http://www.example.com/test/index2.php
 
 
