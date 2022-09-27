@@ -22,6 +22,5 @@ El código de estado de respuesta HTTP 302 encontrado es una forma común de rea
 
 #### 6.Utilizando el filtro de captura para la interfaz de red de Wireshark, analiza la petición al host: www.google.com. Mostrando la cabecera IP, la dirección IP de tu ordenador y la del servidor. Comprueba que, poniendo esa IP en el navegador, accedas a Google.
 
-
-
-
+72	20.604469	192.168.1.69	80.58.61.254	DNS	74	Standard query 0x988d A www.google.com
+Al acceden desde el navegador a la direccion ip da un timeout.
