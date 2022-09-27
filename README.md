@@ -1,5 +1,11 @@
 ﻿# despliegue-de-aplicaciones-web
 #### 3.Analiza los headers de las peticiones cuando inicias sesión en el Moodle y comprende cómo se obtiene el token. Para ello, necesitamos saber de dónde salen TODOS los datos sensibles que se envían.
+Al poner la contraseña y inspeccionar los tokens sale lo siguiente:
+anchor: 
+logintoken: EwNXBrvOORCKF0R6QSYaUwbvIylkCiHK
+username: eruz@campus.eug.es
+password: dbgh
+
 
 #### 4.¿A qué puerto se reciben normalmente las peticiones del protocolo HTTP? ¿A qué capa del modelo TCP/IP se encuentra el protocolo HTTP? ¿Y los protocolos TCP, UDP, e IP?
 
