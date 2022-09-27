@@ -1,9 +1,13 @@
 ﻿# despliegue-de-aplicaciones-web
 #### 3.Analiza los headers de las peticiones cuando inicias sesión en el Moodle y comprende cómo se obtiene el token. Para ello, necesitamos saber de dónde salen TODOS los datos sensibles que se envían.
 Al poner la contraseña y inspeccionar los tokens sale lo siguiente:
+
 anchor: 
+
 logintoken: EwNXBrvOORCKF0R6QSYaUwbvIylkCiHK
+
 username: eruz@campus.eug.es
+
 password: dbgh
 
 Los datos sensibles son aquellos protegidos por RGPD, es decir, datos personales.
